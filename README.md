@@ -1,2 +1,2 @@
 # platform
-https://criptomir.github.io/platforma/
+https://criptomir.github.io
